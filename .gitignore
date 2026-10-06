@@ -1,0 +1,23 @@
+# Build folders
+build/
+cmake-build-*/
+out/
+*.user
+*.pro.user
+CMakeLists.txt.user
+
+# Qt generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.qmlc
+
+# Data files
+*.db
+tasks.txt
+tasks.db
+
+# IDE
+.vscode/
+.idea/
+*~
